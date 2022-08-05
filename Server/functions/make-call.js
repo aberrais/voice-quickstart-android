@@ -1,4 +1,4 @@
-const callerNumber = '1234567890';
+const callerNumber = '+498988997023';
 const callerId = 'client:alice';
 
 exports.handler = function(context, event, callback) {

@@ -36,6 +36,6 @@ captures/
 .idea/
 
 # GCM Configuration File
-google-services.json
+app/google-services.json
 
 .DS_Store
